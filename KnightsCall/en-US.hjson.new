@@ -1,0 +1,106 @@
+
+Mods: {
+	KnightsCall: {
+		Buffs: {
+			IncrediblePain: {
+				DisplayName: Incredible Pain
+				Description: It's Unbearable!
+			}
+		}
+
+		Items: {
+			LeatherBracer: {
+				DisplayName: Leather Bracer
+				Tooltip: Increases Arrow Damage By 20%
+			}
+
+			Threepic_Cowl.DisplayName: 3pic's Cowl
+			Threepic_Leg_Guards.DisplayName: 3pic's Leg Guards
+			Threepic_Plated_Shirt.DisplayName: 3pic's Plated Shirt
+
+			DestructionFlames: {
+				DisplayName: Destruction Flames
+				Tooltip: Attacks with a Flaming Typhoon to tear enemies and explode
+			}
+
+			LiliRainbow: {
+				DisplayName: Lili Rainbow
+				Tooltip: Deadly Flowers With Rainbows?!
+			}
+
+			Typhoon: {
+				DisplayName: Typhoon
+				Tooltip: Attacks with a Typhoon to tear enemies.
+			}
+
+			FlamemeldGreatsword: {
+				DisplayName: Flamemeld Greatsword
+				Tooltip:
+					'''
+					Throws A Spread Of Cursed Flames To Incinerate Foes
+					'Subscribe To CursedFlames!'
+					'''
+			}
+
+			JavelinRapier: {
+				DisplayName: Javelin Rapier
+				Tooltip: Launches Javelins.
+			}
+
+			RGBSword: {
+				DisplayName: R G B Sword
+				Tooltip: Fires rapid rainbow cursors to damage foes
+			}
+
+			SwordInflictTest: {
+				DisplayName: Sword Inflict Test
+				Tooltip: Test
+			}
+
+			IcePistol: {
+				DisplayName: Ice Pistol
+				Tooltip: Shoots Icy bolts to rapidly damage foes.
+			}
+
+			KnifeLauncher: {
+				DisplayName: Knife Launcher
+				Tooltip:
+					'''
+					75% chance to not consume ammo
+					Test
+					'''
+			}
+
+			SpearGun: {
+				DisplayName: Spear Gun
+				Tooltip: Oh, so you want a spear in ya' eye? Aye!
+			}
+
+			TheLightMaker: {
+				DisplayName: The Light Maker
+				Tooltip: I give thy' light!
+			}
+
+			ZackString: {
+				DisplayName: Zack String
+				Tooltip: Converts Wooden Arrows Into Demon Scythes
+			}
+
+			MurmerAxe: {
+				DisplayName: Murmer Axe
+				Tooltip:
+					'''
+					Rains Burning Hatchets From The Sky!
+					 'Best Used To Kill Omega Doors'
+					'''
+			}
+		}
+
+		NPCs.Astronaut.DisplayName: Astronaut
+
+		Projectiles: {
+			FlameDiskDestruction.DisplayName: Destruction Flames
+			RGBCursor.DisplayName: RGB Cursor
+		}
+	}
+}
