@@ -1,3 +1,0 @@
-displayName = Knight's Call
-author = Tundra Knight
-version = 0.1
