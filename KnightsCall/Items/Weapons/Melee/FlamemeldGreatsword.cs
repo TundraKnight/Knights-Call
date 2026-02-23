@@ -18,12 +18,12 @@ namespace KnightsCall.Items.Weapons.Melee
 			Item.height = 26;
 
 			Item.useStyle = ItemUseStyleID.Swing;
-			Item.useTime = 20;
-			Item.useAnimation = 20;
+			Item.useTime = 38;
+			Item.useAnimation = 38;
 			Item.autoReuse = true;
 
 			Item.DamageType = DamageClass.Melee;
-			Item.damage = 37;
+			Item.damage = 68;
 			Item.knockBack = 6;
 			Item.crit = 6;
 
